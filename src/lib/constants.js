@@ -3,8 +3,8 @@
 export const BRAND = {
   name: "TEQSEL",
   tagline: "Accelerate Your Tech Sales Growth",
-  email: "hello@teqsel.com",
-  phone: "+234 700 000 0000",
+  email: "contact@teqsel.com",
+  phone: "08134269224",
   hours: "Mon – Fri · 8:00 AM – 6:00 PM (WAT)",
   address: "Victoria Island, Lagos, Nigeria",
 };
